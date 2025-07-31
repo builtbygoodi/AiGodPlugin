@@ -1,0 +1,7 @@
+name: ai
+version: '1.0-SNAPSHOT'
+main: me.goodi.ai.Ai
+api-version: '1.21'
+commands:
+  favor:
+    description: Modify your favor with the AI
